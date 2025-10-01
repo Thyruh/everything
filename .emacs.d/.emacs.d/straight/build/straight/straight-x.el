@@ -1,0 +1,1 @@
+/home/thyruh/.emacs.d/straight/repos/straight.el/straight-x.el
