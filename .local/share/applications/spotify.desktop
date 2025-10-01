@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Spotify
+Comment=Spotify Music Player
+Exec=flatpak run com.spotify.Client
+Icon=spotify
+Terminal=false
+Type=Application
+Categories=Audio;Music;Player;
+StartupNotify=true

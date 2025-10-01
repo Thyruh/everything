@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Telegram
+Comment=Telegram Messenger
+Exec=flatpak run org.telegram.desktop
+Icon=telegram
+Terminal=false
+Type=Application
+Categories=Network;Chat;InstantMessaging;
+StartupNotify=true

@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/home/thyruh/dev/learning/cpp-caleb-curry'
+let g:netrw_dirhist_0='/home/thyruh/dev/learning'
+let g:netrw_dirhist_9='/home/thyruh/dev/learning/cpp-caleb-curry'
+let g:netrw_dirhist_8='/home/thyruh/dev/learning'
+let g:netrw_dirhist_7='/home/thyruh/dev/learning/cpp-caleb-curry'
+let g:netrw_dirhist_6='/home/thyruh'
+let g:netrw_dirhist_5='/home/thyruh/.config/nvim'
+let g:netrw_dirhist_4='/home/thyruh'
+let g:netrw_dirhist_3='/home/thyruh/Downloads'
+let g:netrw_dirhist_2='/home/thyruh'

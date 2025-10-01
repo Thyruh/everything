@@ -1,0 +1,199 @@
+[ERROR Tue 30 Sep 2025 01:38:35 AM CEST] .../pack/packer/start/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="curl", err="ENOENT: no such file or directory"
+[ERROR Tue 30 Sep 2025 01:38:35 AM CEST] .../pack/packer/start/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="curl", err="ENOENT: no such file or directory"
+[ERROR Tue 30 Sep 2025 01:38:35 AM CEST] .../pack/packer/start/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="curl", err="ENOENT: no such file or directory"
+[INFO  Tue 30 Sep 2025 01:38:36 AM CEST] ...rt/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=pyright) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue 30 Sep 2025 01:38:36 AM CEST] ...rt/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=haskell-language-server) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue 30 Sep 2025 01:38:36 AM CEST] ...rt/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=gopls) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue 30 Sep 2025 01:38:36 AM CEST] ...rt/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=clangd) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR Tue 30 Sep 2025 01:38:36 AM CEST] .../pack/packer/start/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR Tue 30 Sep 2025 01:38:36 AM CEST] .../pack/packer/start/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="go", err="ENOENT: no such file or directory"
+[ERROR Tue 30 Sep 2025 01:38:36 AM CEST] ...rt/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=pyright) error=spawn: npm failed with exit code - and signal -. Could not find executable "npm" in PATH.
+
+[ERROR Tue 30 Sep 2025 01:38:36 AM CEST] ...rt/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=gopls) error=spawn: go failed with exit code - and signal -. Could not find executable "go" in PATH.
+
+[ERROR Tue 30 Sep 2025 01:38:36 AM CEST] .../pack/packer/start/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="curl", err="ENOENT: no such file or directory"
+[ERROR Tue 30 Sep 2025 01:38:36 AM CEST] ...rt/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=haskell-language-server) error=spawn: bash failed with exit code 127 and signal 0. + ghcup --url-source=https://raw.githubusercontent.com/haskell/ghcup-metadata/master/ghcup-vanilla-0.0.9.yaml install hls 2.11.0.0 -i /home/thyruh/.local/share/nvim/mason/packages/haskell-language-server
+bash: line 2: ghcup: command not found
+
+[ERROR Tue 30 Sep 2025 01:38:39 AM CEST] .../pack/packer/start/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="curl", err="ENOENT: no such file or directory"
+[INFO  Tue 30 Sep 2025 01:38:39 AM CEST] ...rt/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=clangd)
+[INFO  Tue 30 Sep 2025 01:39:48 AM CEST] ...rt/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=pyright) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue 30 Sep 2025 01:39:48 AM CEST] ...rt/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=haskell-language-server) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue 30 Sep 2025 01:39:48 AM CEST] ...rt/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=gopls) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR Tue 30 Sep 2025 01:39:48 AM CEST] .../pack/packer/start/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR Tue 30 Sep 2025 01:39:48 AM CEST] ...rt/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=pyright) error=spawn: npm failed with exit code - and signal -. Could not find executable "npm" in PATH.
+
+[ERROR Tue 30 Sep 2025 01:39:48 AM CEST] .../pack/packer/start/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="go", err="ENOENT: no such file or directory"
+[ERROR Tue 30 Sep 2025 01:39:48 AM CEST] ...rt/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=gopls) error=spawn: go failed with exit code - and signal -. Could not find executable "go" in PATH.
+
+[ERROR Tue 30 Sep 2025 01:39:55 AM CEST] ...rt/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=haskell-language-server) error=spawn: bash failed with exit code 127 and signal 0. + ghcup --url-source=https://raw.githubusercontent.com/haskell/ghcup-metadata/master/ghcup-vanilla-0.0.9.yaml install hls 2.11.0.0 -i /home/thyruh/.local/share/nvim/mason/packages/haskell-language-server
+bash: line 2: ghcup: command not found
+
+[INFO  Tue 30 Sep 2025 01:40:06 AM CEST] ...rt/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=pyright) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue 30 Sep 2025 01:40:06 AM CEST] ...rt/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=haskell-language-server) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue 30 Sep 2025 01:40:06 AM CEST] ...rt/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=gopls) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR Tue 30 Sep 2025 01:40:06 AM CEST] .../pack/packer/start/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR Tue 30 Sep 2025 01:40:06 AM CEST] .../pack/packer/start/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="go", err="ENOENT: no such file or directory"
+[ERROR Tue 30 Sep 2025 01:40:06 AM CEST] ...rt/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=pyright) error=spawn: npm failed with exit code - and signal -. Could not find executable "npm" in PATH.
+
+[ERROR Tue 30 Sep 2025 01:40:06 AM CEST] ...rt/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=gopls) error=spawn: go failed with exit code - and signal -. Could not find executable "go" in PATH.
+
+[ERROR Tue 30 Sep 2025 01:40:07 AM CEST] ...rt/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=haskell-language-server) error=spawn: bash failed with exit code 127 and signal 0. + ghcup --url-source=https://raw.githubusercontent.com/haskell/ghcup-metadata/master/ghcup-vanilla-0.0.9.yaml install hls 2.11.0.0 -i /home/thyruh/.local/share/nvim/mason/packages/haskell-language-server
+bash: line 2: ghcup: command not found
+
+[INFO  Tue 30 Sep 2025 01:40:11 AM CEST] ...rt/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=pyright) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue 30 Sep 2025 01:40:11 AM CEST] ...rt/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=haskell-language-server) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue 30 Sep 2025 01:40:11 AM CEST] ...rt/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=gopls) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR Tue 30 Sep 2025 01:40:11 AM CEST] .../pack/packer/start/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR Tue 30 Sep 2025 01:40:11 AM CEST] ...rt/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=pyright) error=spawn: npm failed with exit code - and signal -. Could not find executable "npm" in PATH.
+
+[ERROR Tue 30 Sep 2025 01:40:11 AM CEST] .../pack/packer/start/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="go", err="ENOENT: no such file or directory"
+[ERROR Tue 30 Sep 2025 01:40:11 AM CEST] ...rt/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=gopls) error=spawn: go failed with exit code - and signal -. Could not find executable "go" in PATH.
+
+[ERROR Tue 30 Sep 2025 01:40:11 AM CEST] ...rt/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=haskell-language-server) error=spawn: bash failed with exit code 127 and signal 0. + ghcup --url-source=https://raw.githubusercontent.com/haskell/ghcup-metadata/master/ghcup-vanilla-0.0.9.yaml install hls 2.11.0.0 -i /home/thyruh/.local/share/nvim/mason/packages/haskell-language-server
+bash: line 2: ghcup: command not found
+
+[INFO  Tue 30 Sep 2025 01:44:04 AM CEST] ...rt/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=pyright) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue 30 Sep 2025 01:44:04 AM CEST] ...rt/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=haskell-language-server) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue 30 Sep 2025 01:44:04 AM CEST] ...rt/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=gopls) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR Tue 30 Sep 2025 01:44:04 AM CEST] ...rt/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=haskell-language-server) error=spawn: bash failed with exit code 127 and signal 0. + ghcup --url-source=https://raw.githubusercontent.com/haskell/ghcup-metadata/master/ghcup-vanilla-0.0.9.yaml install hls 2.11.0.0 -i /home/thyruh/.local/share/nvim/mason/packages/haskell-language-server
+bash: line 2: ghcup: command not found
+
+[ERROR Tue 30 Sep 2025 01:44:08 AM CEST] .../pack/packer/start/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="curl", err="ENOENT: no such file or directory"
+[INFO  Tue 30 Sep 2025 01:44:08 AM CEST] ...rt/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=pyright)
+[ERROR Tue 30 Sep 2025 01:44:09 AM CEST] .../pack/packer/start/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="curl", err="ENOENT: no such file or directory"
+[ERROR Tue 30 Sep 2025 01:44:09 AM CEST] .../pack/packer/start/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="curl", err="ENOENT: no such file or directory"
+[ERROR Tue 30 Sep 2025 01:44:09 AM CEST] .../pack/packer/start/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="curl", err="ENOENT: no such file or directory"
+[INFO  Tue 30 Sep 2025 01:44:32 AM CEST] ...rt/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=gopls)
+[INFO  Tue 30 Sep 2025 01:45:20 AM CEST] ...rt/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=asm-lsp) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Tue 30 Sep 2025 01:45:29 AM CEST] ...rt/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=bash-language-server) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR Tue 30 Sep 2025 01:45:38 AM CEST] .../pack/packer/start/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="curl", err="ENOENT: no such file or directory"
+[INFO  Tue 30 Sep 2025 01:45:38 AM CEST] ...rt/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=bash-language-server)
+[INFO  Tue 30 Sep 2025 01:46:04 AM CEST] ...rt/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=gh) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR Tue 30 Sep 2025 01:46:04 AM CEST] .../pack/packer/start/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="curl", err="ENOENT: no such file or directory"
+[INFO  Tue 30 Sep 2025 01:46:06 AM CEST] ...rt/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=gh)
+[INFO  Tue 30 Sep 2025 01:47:06 AM CEST] ...rt/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=rust-analyzer) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR Tue 30 Sep 2025 01:47:06 AM CEST] .../pack/packer/start/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="curl", err="ENOENT: no such file or directory"
+[ERROR Tue 30 Sep 2025 01:47:07 AM CEST] .../pack/packer/start/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="curl", err="ENOENT: no such file or directory"
+[INFO  Tue 30 Sep 2025 01:47:08 AM CEST] ...rt/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=rust-analyzer)
+[INFO  Tue 30 Sep 2025 01:47:31 AM CEST] ...rt/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=typescript-language-server) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR Tue 30 Sep 2025 01:47:37 AM CEST] .../pack/packer/start/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="curl", err="ENOENT: no such file or directory"
+[INFO  Tue 30 Sep 2025 01:47:38 AM CEST] ...rt/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=typescript-language-server)
+[ERROR Tue 30 Sep 2025 01:47:46 AM CEST] ...rt/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=asm-lsp) error="Installation was aborted."
+[INFO  Tue 30 Sep 2025 01:47:47 AM CEST] ...rt/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=haskell-language-server) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR Tue 30 Sep 2025 01:47:47 AM CEST] ...rt/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=haskell-language-server) error=spawn: bash failed with exit code 127 and signal 0. + ghcup --url-source=https://raw.githubusercontent.com/haskell/ghcup-metadata/master/ghcup-vanilla-0.0.9.yaml install hls 2.11.0.0 -i /home/thyruh/.local/share/nvim/mason/packages/haskell-language-server
+bash: line 2: ghcup: command not found
+
+[ERROR Tue 30 Sep 2025 01:47:53 AM CEST] .../pack/packer/start/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="curl", err="ENOENT: no such file or directory"
+[ERROR Tue 30 Sep 2025 01:47:53 AM CEST] .../pack/packer/start/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="curl", err="ENOENT: no such file or directory"
+[ERROR Tue 30 Sep 2025 01:47:54 AM CEST] .../pack/packer/start/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="curl", err="ENOENT: no such file or directory"
+[INFO  Tue 30 Sep 2025 01:48:26 AM CEST] ...rt/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=haskell-language-server) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR Tue 30 Sep 2025 01:48:26 AM CEST] ...rt/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=haskell-language-server) error=spawn: bash failed with exit code 127 and signal 0. + ghcup --url-source=https://raw.githubusercontent.com/haskell/ghcup-metadata/master/ghcup-vanilla-0.0.9.yaml install hls 2.11.0.0 -i /home/thyruh/.local/share/nvim/mason/packages/haskell-language-server
+bash: line 2: ghcup: command not found
+
+[INFO  Tue 30 Sep 2025 01:53:15 AM CEST] ...rt/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=haskell-language-server) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR Tue 30 Sep 2025 01:53:15 AM CEST] ...rt/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=haskell-language-server) error=spawn: bash failed with exit code 127 and signal 0. + ghcup --url-source=https://raw.githubusercontent.com/haskell/ghcup-metadata/master/ghcup-vanilla-0.0.9.yaml install hls 2.11.0.0 -i /home/thyruh/.local/share/nvim/mason/packages/haskell-language-server
+bash: line 2: ghcup: command not found
+
+[INFO  Tue 30 Sep 2025 01:53:47 AM CEST] ...rt/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=cmake-language-server) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR Tue 30 Sep 2025 01:53:48 AM CEST] ...rt/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=cmake-language-server) error=spawn: python3 failed with exit code 1 and signal 0. 

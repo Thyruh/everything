@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Discord
+Comment=Discord Chat Application
+Exec=flatpak run com.discordapp.Discord
+Icon=discord
+Terminal=false
+Type=Application
+Categories=Network;Chat;InstantMessaging;
+StartupNotify=true
